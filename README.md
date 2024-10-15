@@ -1,2 +1,43 @@
-# PowerBI_Project
- The design of this interactive dashboard tracks and analyzes online sales data, providing users with the flexibility to drill down into metrics using advanced filters and bar charts, maps, and other types of visualizations that users can use to draw actionable insights.
+# Interactive Sales Dashboard
+ 
+## Overview
+ 
+This is an interactive dashboard for tracking and analyzing online sales data. The dashboard is designed for dynamic exploration and gaining insight from a wide variety of visualizations.
+ 
+## Features
+ 
+- Interactive Visualizations: Bar, Pie Charts, Scatter Plots, and Maps
+User-Driven Exploration: Advanced Filter and Slicing.
+- Connects with multiple sources of data for reporting in its entirety.
+
+## Future Enhancements
+
+- Provides real time feeds of data
+- Installs predictive analysis on sales forecasting
+- Increases custom analytics in segmentation
+
+## Technologies Used
+
+- Data Visualization tools (such as Tableau, Power BI)
+- Data Manipulation (SQL, Python, etc.)
+- Visualization Libraries (Matplotlib, Seaborn, etc.)
+
+## Setting Up
+
+1. Clone the repository: 
+```bash
+git clone [copy my powerbi repository url]
+END
+2. Install necessary dependencies:  
+   ```bash
+   [installation power bi desktop to visualize]
+   ```
+3. Open the dashboard in your preferred visualization tool.
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests for any improvements or features.
+
+## License
+
+This project is licensed under the Own License.
