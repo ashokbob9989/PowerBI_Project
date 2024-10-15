@@ -24,14 +24,14 @@ User-Driven Exploration: Advanced Filter and Slicing.
 
 ## Setting Up
 
-1. Clone the repository: 
-```bash
-git clone [copy my powerbi repository url]
-END
-2. Install necessary dependencies:  
-   ```bash
-   [installation power bi desktop to visualize]
-   ```
+1. Clone the repository:
+   
+   git clone [copy my powerbi repository url]
+   
+2. installation:
+   
+   power bi desktop to visualize or any visualization tool.
+   
 3. Open the dashboard in your preferred visualization tool.
 
 ## Contributing
